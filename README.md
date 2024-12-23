@@ -7,6 +7,9 @@ This repository contains a very small CSS theme for Zen Browser. It is expected 
 
 None of this CSS was actually written by me! Theyre snippets taken from [Dark Harmony by itsmefen.](https://github.com/itsmefen/Dark-Harmony) I actually don't know how to write CSS, and as such I deny any credit or responsibility for this CSS theme. Full credit to itsmefen for putting this together, I just took the pa rts I liked the most and seperated them out for use with Cohesion + Natsumi.
 
+## Showcase
+
+
 ## Installation via the UCL
 What is uCL?
 - [uCL (userChrome-Loader)](https://github.com/greeeen-dev/userchrome-loader) is an alternative method of structuring custom CSS to make it easier for users to swap in and out specific Modules of code from the community. This method is more similar to how Zen Browser already structrues its Mods. In addition to being a simpler setup process, it's a much easier structure to debug and maintain.
