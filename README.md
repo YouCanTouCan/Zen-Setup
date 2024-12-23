@@ -1,6 +1,6 @@
 # Toucan Tweaks
 
-This repository contains a very small CSS theme for Zen Browser. It is expected to be used on top of [Cohesion + Natsumi by TheBigWazz](https://github.com/TheBigWazz/ZenThemes/tree/main/Zen-current-theme), and as such Toucan Tweaks by itself does very little. This theme does the followinmg three things:
+This repository contains a very small CSS theme for Zen Browser. It is expected to be used on top of [Cohesion + Natsumi by TheBigWazz](https://github.com/TheBigWazz/ZenThemes/tree/main/Zen-current-theme), and as such Toucan Tweaks by itself does very little. This theme does the following three things:
 1. Rather than having a million icons appear when hovering over the URL bar, a single one appears. Scrolling on it swaps it to the others.
 2. Changes a few icons: notably the three dots menu button gets changed to the Zen logo, and the unified extensions icon looks a bit cooler. There's also a few changed icons for specific extensions.
 3. When a tab is playing audio, the favicon will change to an animated audio visualizer-looking icon. When clicked, it toggles muting the tab.
