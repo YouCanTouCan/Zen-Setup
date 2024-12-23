@@ -1,13 +1,28 @@
 # Toucan Tweaks
 
-This repository contains a very small CSS theme for Zen Browser. It is expected to be used on top of [Cohesion + Natsumi by TheBigWazz](https://github.com/TheBigWazz/ZenThemes/tree/main/Zen-current-theme), and as such Toucan Tweaks does very little. This theme does the followinmg three things:
+This repository contains a very small CSS theme for Zen Browser. It is expected to be used on top of [Cohesion + Natsumi by TheBigWazz](https://github.com/TheBigWazz/ZenThemes/tree/main/Zen-current-theme), and as such Toucan Tweaks by itself does very little. This theme does the followinmg three things:
 1. Rather than having a million icons appear when hovering over the URL bar, a single one appears. Scrolling on it swaps it to the others.
 2. Changes a few icons: notably the three dots menu button gets changed to the Zen logo, and the unified extensions icon looks a bit cooler. There's also a few changed icons for specific extensions.
 3. When a tab is playing audio, the favicon will change to an animated audio visualizer-looking icon. When clicked, it toggles muting the tab.
 
-None of this CSS was actually written by me! Theyre snippets taken from [Dark Harmony by itsmefen.](https://github.com/itsmefen/Dark-Harmony) I actually don't know how to write CSS, and as such I deny any credit or responsibility for this CSS theme. Full credit to itsmefen for putting this together, I just took the pa rts I liked the most and seperated them out for use with Cohesion + Natsumi.
+None of this CSS was actually written by me! Theyre snippets taken from [Dark Harmony by itsmefen.](https://github.com/itsmefen/Dark-Harmony) I actually don't know how to write CSS, and as such I deny any credit or responsibility for this CSS theme. Full credit to itsmefen for putting this together, I just took the parts I liked the most and seperated them out for use with Cohesion + Natsumi.
 
 ## Showcase
+
+General Cohesion/Natsumi Showcase: 
+
+https://github.com/user-attachments/assets/5a29b5a1-d8e4-4eb2-9b7b-57ef2c3ade99
+
+Icons and URL Scrolling Showcase (from Dark Harmony):
+
+https://github.com/user-attachments/assets/9bb8f374-3e23-4587-b1ed-2b081dd121e5
+
+Audio Indicator Showcase (from Dark Harmony):
+
+https://github.com/user-attachments/assets/020a44c2-373a-49fd-ace4-9c9fe7684301
+
+Cohesion + Natsumi with ToucanTweaks: ![Screenshot_20241223_144728](https://github.com/user-attachments/assets/f8f5c4b9-1055-4614-a34c-cb5d6517555f)
+![Screenshot_20241223_144740](https://github.com/user-attachments/assets/f78fd537-5312-404a-bf66-771362382e3a)
 
 
 ## Installation via the UCL
