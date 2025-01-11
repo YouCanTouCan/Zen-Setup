@@ -1,28 +1,18 @@
 # Toucan Tweaks
 
-This repository contains a very small CSS theme for Zen Browser. It is expected to be used on top of [Cohesion + Natsumi by TheBigWazz](https://github.com/TheBigWazz/ZenThemes/tree/main/Zen-current-theme), and as such Toucan Tweaks by itself does very little. This theme does the following three things:
-1. Rather than having a million icons appear when hovering over the URL bar, a single one appears. Scrolling on it swaps it to the others.
-2. Changes a few icons: notably the three dots menu button gets changed to the Zen logo, and the unified extensions icon looks a bit cooler. There's also a few changed icons for specific extensions.
-3. When a tab is playing audio, the favicon will change to an animated audio visualizer-looking icon. When clicked, it toggles muting the tab.
-
-None of this CSS was actually written by me! Theyre snippets taken from [Dark Harmony by itsmefen.](https://github.com/itsmefen/Dark-Harmony) I actually don't know how to write CSS, and as such I deny any credit or responsibility for this CSS theme. Full credit to itsmefen for putting this together, I just took the parts I liked the most and seperated them out for use with Cohesion + Natsumi.
+This repository contains a very small CSS theme for Zen Browser. It is expected to be used on top of other themes, such as [Natsumi Browser by Greeen-Dev](https://github.com/itsmefen/Dark-Harmony) and [Pineapple Fried by TheBigWazz](https://github.com/TheBigWazz/Pineapple-Fried). As such Toucan Tweaks by itself does very little. This theme does the following two things:
+1. Rather than having a million icons appear when hovering over the URL bar, a single one appears. Scrolling on it swaps it to the others. Thank you to itsmefen, maker of [Dark Harmony](https://github.com/itsmefen/Dark-Harmony), for the code for this. I did not write it myself.
+2. Changes icons. The menu button is changed to the Zen logo, and the unified extensions button is changed to a version with a subtle Z shape in it. In addition, the logos of [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search), [Dark Reader](https://addons.mozilla.org/en-US/firefox/addon/darkreader/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search), [Zotero Connector](https://www.zotero.org/download/connectors), [Cast Kodi](https://addons.mozilla.org/en-US/firefox/addon/castkodi/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search), [KeepassXC-Browser](https://addons.mozilla.org/en-US/firefox/addon/keepassxc-browser/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search), [Bitwarden](https://addons.mozilla.org/en-US/firefox/addon/bitwarden-password-manager/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search), and [ProtonPass](https://addons.mozilla.org/en-US/firefox/addon/proton-pass/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) are changed to appear like they are a native part of the browser. Further extensions will be added on request.
 
 ## Showcase
 
-General Cohesion/Natsumi Showcase: 
-
-https://github.com/user-attachments/assets/5a29b5a1-d8e4-4eb2-9b7b-57ef2c3ade99
-
-Icons and URL Scrolling Showcase (from Dark Harmony):
+URL Scrolling Showcase (from [Dark Harmony](https://github.com/itsmefen/Dark-Harmony)):
 
 https://github.com/user-attachments/assets/9bb8f374-3e23-4587-b1ed-2b081dd121e5
 
-Audio Indicator Showcase (from Dark Harmony):
+Natsumi + Pineapple Fried + ToucanTweaks: 
+![Screenshot_20250110_223529](https://github.com/user-attachments/assets/53f24525-e1f8-451d-9f6a-67f2ce2fb2d4)
 
-https://github.com/user-attachments/assets/020a44c2-373a-49fd-ace4-9c9fe7684301
-
-Cohesion + Natsumi with ToucanTweaks: ![Screenshot_20241223_144728](https://github.com/user-attachments/assets/f8f5c4b9-1055-4614-a34c-cb5d6517555f)
-![Screenshot_20241223_144740](https://github.com/user-attachments/assets/f78fd537-5312-404a-bf66-771362382e3a)
 
 
 ## Installation via the UCL
@@ -34,6 +24,7 @@ What is uCL?
 
 Instructions:
 - If you have not already, follow the [Zen Live Editing guide](https://docs.zen-browser.app/guides/live-editing) to first make your own userChrome.css file.
-- Download [Cohesion + Natsumi](https://github.com/TheBigWazz/ZenThemes/tree/main/Zen-current-theme) following their instructions if you so desire (it's an awesome mod!)
+- Download [Natsumi](https://github.com/itsmefen/Dark-Harmony) following their instructions. Skip this if you only want ToucanTweaks.
+- Download [Pineapple Fried](https://github.com/TheBigWazz/ZenThemes/tree/main/Zen-current-theme) following their instructions. Skip this if you only want ToucanTweaks.
 - Download the ToucanTweaks folder from above and drop them into your "chrome" folder.
 - Add this import statement to your userChrome.css: @import "ToucanTweaks/ToucanTweaks.css";
