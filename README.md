@@ -10,8 +10,9 @@ URL Scrolling Showcase (from [Dark Harmony](https://github.com/itsmefen/Dark-Har
 
 https://github.com/user-attachments/assets/9bb8f374-3e23-4587-b1ed-2b081dd121e5
 
-Natsumi + Pineapple Fried + ToucanTweaks: ![Screenshot_20241223_144728](https://github.com/user-attachments/assets/f8f5c4b9-1055-4614-a34c-cb5d6517555f)
-![Screenshot_20241223_144740](https://github.com/user-attachments/assets/f78fd537-5312-404a-bf66-771362382e3a)
+Natsumi + Pineapple Fried + ToucanTweaks: 
+![Screenshot_20250110_223529](https://github.com/user-attachments/assets/53f24525-e1f8-451d-9f6a-67f2ce2fb2d4)
+
 
 
 ## Installation via the UCL
