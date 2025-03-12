@@ -10,6 +10,13 @@ URL Scrolling Showcase (from [Dark Harmony](https://github.com/itsmefen/Dark-Har
 
 https://github.com/user-attachments/assets/9bb8f374-3e23-4587-b1ed-2b081dd121e5
 
+From left to right: uBlock Origin, Dark Reader, Workspace Swapper, Zotero Connector, Cast Kodi.
+![image](https://github.com/user-attachments/assets/2e399674-7905-4f37-a983-2d994572921a)
+
+Menu button and unified extension button:
+
+![image](https://github.com/user-attachments/assets/ac6962b7-89f0-4bdd-8053-8c5d564d4d4d)
+
 Natsumi + Pineapple Fried + ToucanTweaks: 
 ![Screenshot_20250110_223529](https://github.com/user-attachments/assets/53f24525-e1f8-451d-9f6a-67f2ce2fb2d4)
 
